@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227359287124",
+    "project_id": "notesapp-403fd",
+    "storage_bucket": "notesapp-403fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227359287124:android:bce73811f2a95a16cf0ac1",
+        "android_client_info": {
+          "package_name": "se.arzam.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227359287124-dhqrraln0kvkp8nqerm169omdpmiv6nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeqMsEq_YGoT3TZwJQquEsWehu4ODVAvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227359287124-dhqrraln0kvkp8nqerm169omdpmiv6nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
